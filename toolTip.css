@@ -1,0 +1,42 @@
+/*For Time Tool Tip*/
+.timeToolTip.toolTipHeader {
+  text - align: center;
+  font - size: 16 px;
+  color: #B4B5B9;
+}
+
+.timeToolTip.toolTipContent {
+  text - align: right;
+  color: #B0C4DE;
+  white - space: nowrap;
+  padding - right: 0 px;
+}
+
+.toolTipTimeZone {
+  color: white !important;
+  text - align: left !important;
+  padding - left: 3 px;
+}
+
+.tooltip - custom.tooltip - inner {
+  width: 170 px;
+  background: #708090;
+  padding: 6px 10px 15px 10px;
+  text-align: left;
+}
+
+.tooltip-custom.top .tooltip-arrow {
+  border-top-color: # 708090;
+}
+
+.tooltip - custom.bottom.tooltip - arrow {
+  border - top - color: #708090;
+}
+
+.tooltip-custom.left .tooltip-arrow {
+  border-top-color: # 708090;
+}
+
+.tooltip - custom.right.tooltip - arrow {
+  border - top - color: #708090;
+}
